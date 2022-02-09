@@ -58,20 +58,18 @@ export default function PillarCV() {
 
                                                     <div className="resume-timeline-item-header mb-2">
                                                         <div className="d-flex flex-column flex-md-row">
-                                                            <h3 className="resume-position-title font-weight-bold mb-1">Lead
-                                                                Developer</h3>
-                                                            <div className="resume-company-name ms-auto">Startup Hub
+                                                            <h3 className="resume-position-title font-weight-bold mb-1">
+                                                               Carrer change
+                                                            </h3>
+                                                            <div className="resume-company-name ms-auto">
                                                             </div>
                                                         </div>
-                                                        <div className="resume-position-time">2020 - Present</div>
+                                                        <div className="resume-position-time">2019 - Present</div>
                                                     </div>
                                                     <div className="resume-timeline-item-desc">
-                                                        <p>Role description goes here ipsum dolor sit amet, consectetuer
-                                                            adipiscing elit. Aenean commodo ligula eget dolor. Aenean
-                                                            massa. Cum sociis natoque penatibus et magnis dis parturient
-                                                            montes, nascetur ridiculus mus. Donec quam felis, ultricies
-                                                            nec, pellentesque eu, pretium quis, sem. Donec pede justo,
-                                                            fringilla vel.</p>
+                                                        <p>I have worked on switching my career into a  different field. I have always been interested in IT and new technologies.
+                                                            During my career in various fields I have participated in several IT projects and even managed one.
+                                                            I have observed the work of software developers and I have always wanted to do what they do. To create something useful out of nothing.  </p>
                                                         <h4 className="resume-timeline-item-desc-heading font-weight-bold">Achievements:</h4>
                                                         <p>Praesentium voluptatum deleniti atque corrupti quos dolores
                                                             et quas molestias excepturi sint occaecati cupiditate non
@@ -90,10 +88,10 @@ export default function PillarCV() {
                                                             used:</h4>
                                                         <ul className="list-inline">
                                                             <li className="list-inline-item"><span
-                                                                className="badge bg-secondary badge-pill">Angular</span>
+                                                                className="badge bg-secondary badge-pill">SAP</span>
                                                             </li>
                                                             <li className="list-inline-item"><span
-                                                                className="badge bg-secondary badge-pill">Python</span>
+                                                                className="badge bg-secondary badge-pill">EXCEL</span>
                                                             </li>
                                                             <li className="list-inline-item"><span
                                                                 className="badge bg-secondary badge-pill">jQuery</span>
@@ -116,31 +114,49 @@ export default function PillarCV() {
 
                                                     <div className="resume-timeline-item-header mb-2">
                                                         <div className="d-flex flex-column flex-md-row">
-                                                            <h3 className="resume-position-title font-weight-bold mb-1">Senior
-                                                                Software Developer</h3>
-                                                            <div className="resume-company-name ms-auto">Google</div>
+                                                            <h3 className="resume-position-title font-weight-bold mb-1">  Logistics Specialist, Logistics Department  </h3>
+                                                            <div className="resume-company-name ms-auto">Jungheinrich Poland </div>
                                                         </div>
-                                                        <div className="resume-position-time">2016 - 2020</div>
+                                                        <div className="resume-position-time">2015 - 2018</div>
                                                     </div>
                                                     <div className="resume-timeline-item-desc">
-                                                        <p>Role description goes here ipsum dolor sit amet, consectetuer
-                                                            adipiscing elit. Aenean commodo ligula eget dolor. Aenean
-                                                            massa. Cum sociis natoque penatibus et magnis dis parturient
-                                                            montes, nascetur ridiculus mus. Donec quam felis, ultricies
-                                                            nec, pellentesque eu, pretium quis, sem. Donec pede justo,
-                                                            fringilla vel.</p>
-                                                        <h4 className="resume-timeline-item-desc-heading font-weight-bold">Achievements</h4>
-                                                        <p>Cum sociis natoque penatibus et magnis dis parturient montes,
-                                                            nascetur ridiculus mus. Donec quam felis, ultricies nec,
-                                                            pellentesque eu, pretium quis, sem.</p>
-                                                        <h4 className="resume-timeline-item-desc-heading font-weight-bold">Technologies
-                                                            used:</h4>
+                                                        <p>Role description ...</p>
+                                                        <h4 className="resume-timeline-item-desc-heading font-weight-bold">Key responsibilities</h4>
+                                                        <p>
+                                                                                                                <li>Process manufacturing orders for forklifts in SAP R/3 (SD module)</li>
+                                                            <li>Order forklifts in Jungheinrich factories and cooperate with third-party suppliers on customizing them to client’s needs</li>
+                                                                <li>Prepare transport documents such as customs invoices and delivery notes</li>
+                                                                    <li>Coordinate the transport and communicate with customer regarding transport data</li>
+                                                                        <li>	Invoice to customers and act as a first point of contact until delivery</li>
+                                                        </p>
+                                                    </div>
+                                                </article>
+                                                <article className="resume-timeline-item position-relative pb-5">
+
+                                                    <div className="resume-timeline-item-header mb-2">
+                                                        <div className="d-flex flex-column flex-md-row">
+                                                              <h3 className="resume-position-title font-weight-bold mb-1">  Rental Projects Assistant, Forklift Rentals Department   </h3>
+                                                                <div className="resume-company-name ms-auto">Jungheinrich Poland </div>
+                                                            </div>
+                                                            <div className="resume-position-time">2014 - 2015</div>
+
+                                                            <p>Role description ...</p>
+                                                            <h4 className="resume-timeline-item-desc-heading font-weight-bold">Key responsibilities</h4>
+                                                            <p>
+
+                                                                <li>Process forklift rental orders and input technical specification in SAP R/3 </li>
+                                                                <li>Development and management of internal technical inspection plans in SAP</li>
+                                                                <li>Coordinate forklifts registration and periodical technical inspections with Office of Technical Inspection  </li>
+                                                                <li>Design reports and summaries in Microsoft Excel	</li>
+                                                            </p>
+                                                        <h4 className="resume-timeline-item-desc-heading font-weight-bold"> Skillsused:</h4>
+
                                                         <ul className="list-inline">
                                                             <li className="list-inline-item"><span
-                                                                className="badge bg-secondary badge-pill">React</span>
+                                                                className="badge bg-secondary badge-pill"> Ability to prioritize</span>
                                                             </li>
                                                             <li className="list-inline-item"><span
-                                                                className="badge bg-secondary badge-pill">Redux</span>
+                                                                className="badge bg-secondary badge-pill"> Time management skills</span>
                                                             </li>
                                                             <li className="list-inline-item"><span
                                                                 className="badge bg-secondary badge-pill">Django</span>
@@ -162,64 +178,148 @@ export default function PillarCV() {
 
                                                     <div className="resume-timeline-item-header mb-2">
                                                         <div className="d-flex flex-column flex-md-row">
-                                                            <h3 className="resume-position-title font-weight-bold mb-1">Co-Founder
-                                                                & Lead Developer</h3>
-                                                            <div className="resume-company-name ms-auto">To-do Lists
+                                                            <h3 className="resume-position-title font-weight-bold mb-1">Production Manager, Labels Production   </h3>
+                                                            <div className="resume-company-name ms-auto">Logopak East
                                                             </div>
                                                         </div>
-                                                        <div className="resume-position-time">2012 - 2016</div>
+                                                        <div className="resume-position-time">2008 - 2013</div>
                                                     </div>
                                                     <div className="resume-timeline-item-desc">
-                                                        <p>Role description goes here ipsum dolor sit amet, consectetuer
-                                                            adipiscing elit. Aenean commodo ligula eget dolor. Aenean
-                                                            massa. Cum sociis natoque penatibus et magnis dis parturient
-                                                            montes, nascetur ridiculus mus. Donec quam felis, ultricies
-                                                            nec.</p>
-                                                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-                                                            Aenean commodo ligula eget dolor. Aenean massa. Cum sociis
-                                                            natoque penatibus et magnis dis parturient montes.</p>
-                                                        <h4 className="resume-timeline-item-desc-heading font-weight-bold">Technologies
-                                                            used:</h4>
+                                                        <p>Leading supplier of fully integrated labelling systems ....</p>
+
+                                                        <h4 className="resume-timeline-item-desc-heading font-weight-bold">Key responsibilities</h4>
+                                                        <p>
+                                                        <li>Direct and coordinate the activities of our production team </li>
+                                                        <li>Communicate with vendors, negotiate contracts, confirm delivery dates and shipping methods</li>
+                                                        <li>Plan production schedule based on customer orders, availability of materials, production capacity and deadlines</li>
+                                                        <li>Ensure materials are available and consumed in “First-In, First-Out” (FIFO) cycles</li>
+                                                        <li>Calculate production cost and finished goods price</li>
+                                                        <li>Monitor product quality and shipments to customers</li>
+                                                        <li>Manage IT projects and specify software requirements (web application for production support, logopakeast.pl website)</li>
+                                                        <li>Use ERP system in everyday work</li>
+                                                        </p>
+
+                                                        <h4 className="resume-timeline-item-desc-heading font-weight-bold"> Skills used:</h4>
                                                         <ul className="list-inline">
                                                             <li className="list-inline-item"><span
-                                                                className="badge bg-secondary badge-pill">Django</span>
+                                                                className="badge bg-secondary badge-pill"> Managing multiple processes </span>
                                                             </li>
                                                             <li className="list-inline-item"><span
-                                                                className="badge bg-secondary badge-pill">JavaScript</span>
+                                                                className="badge bg-secondary badge-pill">ERP</span>
                                                             </li>
                                                             <li className="list-inline-item"><span
-                                                                className="badge bg-secondary badge-pill">Node.js</span>
+                                                                className="badge bg-secondary badge-pill">Problem solving</span>
                                                             </li>
                                                             <li className="list-inline-item"><span
-                                                                className="badge bg-secondary badge-pill">Require.js</span>
+                                                                className="badge bg-secondary badge-pill">Production process plannig</span>
                                                             </li>
                                                             <li className="list-inline-item"><span
-                                                                className="badge bg-secondary badge-pill">HTML/SASS</span>
+                                                                className="badge bg-secondary badge-pill">Process improvement</span>
+                                                            </li>
+                                                        </ul>
+                                                         </div>
+
+                                                </article>
+                                                <article className="resume-timeline-item position-relative pb-5">
+
+                                                    <div className="resume-timeline-item-header mb-2">
+                                                        <div className="d-flex flex-column flex-md-row">
+                                                            <h3 className="resume-position-title font-weight-bold mb-1"> Salesman, Sales and Consulting Department   </h3>
+                                                            <div className="resume-company-name ms-auto">Logopak East
+                                                            </div>
+                                                        </div>
+                                                        <div className="resume-position-time">2006 - 2008 </div>
+                                                    </div>
+                                                    <div className="resume-timeline-item-desc">
+                                                        <p>Leading supplier of fully integrated labelling systems ....</p>
+
+                                                        <h4 className="resume-timeline-item-desc-heading font-weight-bold">Key responsibilities</h4>
+                                                        <p>
+                                                            <li>Actively seek out new sales opportunities and prepare sales offers for labeling machines, logistic labels and various software solutions eg. WMS </li>
+                                                            <li>Organize regular client meetings to discuss their requirements regarding software and machines</li>
+                                                            <li> Receive and process orders from customers, coordinate sales process, technical support and advice</li>
+
+                                                        </p>
+
+                                                        <h4 className="resume-timeline-item-desc-heading font-weight-bold"> Skills used:</h4>
+                                                        <ul className="list-inline">
+                                                            <li className="list-inline-item"><span
+                                                                className="badge bg-secondary badge-pill"> Sales  </span>
+                                                            </li>
+                                                            <li className="list-inline-item"><span
+                                                                className="badge bg-secondary badge-pill">Strategic communication</span>
+                                                            </li>
+                                                            <li className="list-inline-item"><span
+                                                                className="badge bg-secondary badge-pill">Relationship building</span>
+                                                            </li>
+                                                            <li className="list-inline-item"><span
+                                                                className="badge bg-secondary badge-pill">Monitor customer preferences </span>
+                                                            </li>
+                                                            <li className="list-inline-item"><span
+                                                                className="badge bg-secondary badge-pill">Active listening</span>
                                                             </li>
                                                         </ul>
                                                     </div>
+
+                                                </article>
+                                                <article className="resume-timeline-item position-relative pb-5">
+
+                                                    <div className="resume-timeline-item-header mb-2">
+                                                        <div className="d-flex flex-column flex-md-row">
+                                                            <h3 className="resume-position-title font-weight-bold mb-1"> Sales Department Assistant    </h3>
+                                                            <div className="resume-company-name ms-auto">EWA-BIS
+                                                            </div>
+
+                                                        </div>
+                                                        <div className="resume-position-time">2005 - 2006 </div>
+                                                    </div>
+                                                    <div className="resume-timeline-item-desc">
+                                                        <p>Leading supplier of fully integrated labelling systems ....</p>
+
+                                                        <h4 className="resume-timeline-item-desc-heading font-weight-bold">Key responsibilities</h4>
+                                                        <p>
+                                                            <li> Identify  potential customers  </li>
+                                                            <li> Collect information about potential investment from customer and  update information in CRM system</li>
+                                                             <li>Schedule meetings with clients and prepare commercial offers</li>
+                                                            <li>Collaborate with Sales Manager and monitor customer needs</li>
+                                                            <li> !!!!!!!!!! </li>
+
+                                                        </p>
+
+                                                        <h4 className="resume-timeline-item-desc-heading font-weight-bold"> Skills used:</h4>
+                                                        <ul className="list-inline">
+                                                            <li className="list-inline-item"><span
+                                                                className="badge bg-secondary badge-pill"> Sales  </span>
+                                                            </li>
+                                                            <li className="list-inline-item"><span
+                                                                className="badge bg-secondary badge-pill">Strategic communication</span>
+                                                            </li>
+                                                            <li className="list-inline-item"><span
+                                                                className="badge bg-secondary badge-pill">Relationship building</span>
+                                                            </li>
+                                                            <li className="list-inline-item"><span
+                                                                className="badge bg-secondary badge-pill">Monitor customer preferences </span>
+                                                            </li>
+                                                            <li className="list-inline-item"><span
+                                                                className="badge bg-secondary badge-pill">Active listening</span>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+
 
                                                 </article>
                                                 <article className="resume-timeline-item position-relative">
 
                                                     <div className="resume-timeline-item-header mb-2">
                                                         <div className="d-flex flex-column flex-md-row">
-                                                            <h3 className="resume-position-title font-weight-bold mb-1">Web
-                                                                Developer <small className="text-muted">(Intern)</small>
+                                                            <h3 className="resume-position-title font-weight-bold mb-1">Finance Department Assistant  <small className="text-muted">(Intern)</small>
                                                             </h3>
-                                                            <div className="resume-company-name ms-auto">Amazon</div>
+                                                            <div className="resume-company-name ms-auto">Marsh Inc Poland  </div>
                                                         </div>
-                                                        <div className="resume-position-time">2011 - 2012</div>
+                                                        <div className="resume-position-time">2002 - 2003</div>
                                                     </div>
                                                     <div className="resume-timeline-item-desc">
-                                                        <p>Role description goes here ipsum dolor sit amet, consectetuer
-                                                            adipiscing elit. Aenean commodo ligula eget dolor. Aenean
-                                                            massa. Cum sociis natoque penatibus et magnis dis parturient
-                                                            montes, nascetur ridiculus mus. Donec quam felis, ultricies
-                                                            nec. Fusce vulputate eleifend sapien. Vestibulum purus quam,
-                                                            scelerisque ut, mollis sed, nonummy id, metus. Nullam
-                                                            accumsan lorem in dui. Cras ultricies mi eu turpis hendrerit
-                                                            fringilla. Vestibulum.</p>
+                                                        <p>Role description.....</p>
                                                         <h4 className="resume-timeline-item-desc-heading font-weight-bold">Technologies
                                                             used:</h4>
                                                         <ul className="list-inline">
@@ -248,21 +348,12 @@ export default function PillarCV() {
                                         <h2 className="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Skills &amp; Tools</h2>
                                         <div className="resume-section-content">
                                             <div className="resume-skill-item">
-                                                <h4 className="resume-skills-cat font-weight-bold">Frontend</h4>
+                                                <h4 className="resume-skills-cat font-weight-bold">Technical</h4>
                                                 <ul className="list-unstyled mb-4">
                                                     <li className="mb-2">
-                                                        <div className="resume-skill-name">Angular</div>
+                                                        <div className="resume-skill-name">HTML/CSS</div>
                                                         <div className="progress resume-progress">
-                                                            <div className="progress-bar theme-progress-bar-dark"
-                                                                 role="progressbar"
-                                                                 aria-valuenow="25" aria-valuemin="0"
-                                                                 aria-valuemax="100"></div>
-                                                        </div>
-                                                    </li>
-                                                    <li className="mb-2">
-                                                        <div className="resume-skill-name">React</div>
-                                                        <div className="progress resume-progress">
-                                                            <div className="progress-bar theme-progress-bar-dark"
+                                                            <div className="progress-bar theme-progress-bar-dark w-20"
                                                                  role="progressbar"
                                                                  aria-valuenow="25" aria-valuemin="0"
                                                                  aria-valuemax="100"></div>
@@ -271,7 +362,16 @@ export default function PillarCV() {
                                                     <li className="mb-2">
                                                         <div className="resume-skill-name">JavaScript</div>
                                                         <div className="progress resume-progress">
-                                                            <div className="progress-bar theme-progress-bar-dark"
+                                                            <div className="progress-bar theme-progress-bar-dark w-50"
+                                                                 role="progressbar"
+                                                                 aria-valuenow="25" aria-valuemin="0"
+                                                                 aria-valuemax="100"></div>
+                                                        </div>
+                                                    </li>
+                                                    <li className="mb-2">
+                                                        <div className="resume-skill-name">JavaScript</div>
+                                                        <div className="progress resume-progress">
+                                                            <div className="progress-bar theme-progress-bar-dark w-70"
                                                                  role="progressbar"
                                                                  aria-valuenow="25" aria-valuemin="0"
                                                                  aria-valuemax="100"></div>
@@ -279,7 +379,7 @@ export default function PillarCV() {
                                                     </li>
 
                                                     <li className="mb-2">
-                                                        <div className="resume-skill-name">Node.js</div>
+                                                        <div className="resume-skill-name">React</div>
                                                         <div className="progress resume-progress">
                                                             <div className="progress-bar theme-progress-bar-dark"
                                                                  role="progressbar"
@@ -300,10 +400,10 @@ export default function PillarCV() {
                                             </div>
 
                                             <div className="resume-skill-item">
-                                                <h4 className="resume-skills-cat font-weight-bold">Backend</h4>
+                                                <h4 className="resume-skills-cat font-weight-bold">Personal</h4>
                                                 <ul className="list-unstyled">
                                                     <li className="mb-2">
-                                                        <div className="resume-skill-name">Python/Django</div>
+                                                        <div className="resume-skill-name">Good researches</div>
                                                         <div className="progress resume-progress">
                                                             <div className="progress-bar theme-progress-bar-dark"
                                                                  role="progressbar"
@@ -312,7 +412,7 @@ export default function PillarCV() {
                                                         </div>
                                                     </li>
                                                     <li className="mb-2">
-                                                        <div className="resume-skill-name">Ruby/Rails</div>
+                                                        <div className="resume-skill-name">Attention to Detail</div>
                                                         <div className="progress resume-progress">
                                                             <div className="progress-bar theme-progress-bar-dark"
                                                                  role="progressbar"
@@ -321,7 +421,7 @@ export default function PillarCV() {
                                                         </div>
                                                     </li>
                                                     <li className="mb-2">
-                                                        <div className="resume-skill-name">PHP</div>
+                                                        <div className="resume-skill-name">Communication</div>
                                                         <div className="progress resume-progress">
                                                             <div className="progress-bar theme-progress-bar-dark"
                                                                  role="progressbar"
